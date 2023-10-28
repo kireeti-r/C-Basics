@@ -1,2 +1,2 @@
-# C-Basics
+# C Sharp Basics
 Basic C# Syntax
